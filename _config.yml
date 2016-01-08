@@ -1,28 +1,40 @@
-name: MiDoe
 favicon: null
-layout_spectrum: 0.87572
-typography_spectrum: 0.45418
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: MiDoe
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6875
+  brandStrength: 0.875
+  rhythmicContrast: 0.75
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.875
   lightness: 0.4375
-  saturation: 0.6875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.45418
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2489362
+analytics:
+  twitter: null
+  google: null
+  facebook: null
