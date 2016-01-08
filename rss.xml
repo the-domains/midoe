@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MiDoe]]></title>
         <description><![CDATA[MiDoe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/midoe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 17:23:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 17:51:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/midoe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[midoe.de]]></title>
+            <description><![CDATA[<article><h1>midoe.de</h1><p>Meine Homepage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6170e61b9eec899af4bf0733fa99f62f3c495bf1.png"></article>]]></description>
+            <link>http://www.midoe.de/</link>
+            <guid isPermaLink="false">094b9b82-cddd-420b-b3f3-8ab8158b81a3</guid>
+            <pubDate>Fri, 08 Jan 2016 17:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[eins]]></title>
             <description><![CDATA[<article><h1>eins</h1><p>das allererste posting</p></article>]]></description>
-            <link>undefinedeins/index.html</link>
+            <link>https://thegrid.ai/midoe/eins/index.html</link>
             <guid isPermaLink="false">1b0ec938-372a-4da6-9989-fa5c7578875a</guid>
             <pubDate>Fri, 08 Jan 2016 17:23:21 GMT</pubDate>
         </item>
