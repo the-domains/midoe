@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.midoe.de/projekte/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - klassik
   - weiterbildung
 description: MiDoe - Michael Doepke - Meister für Veranstaltungstechnik in Bremen
-datePublished: '2016-01-08T18:14:09.868Z'
-dateModified: '2016-01-08T18:13:50.821Z'
+datePublished: '2016-01-08T18:28:46.955Z'
+dateModified: '2016-01-08T18:28:36.504Z'
 author: []
 related: []
 app_links: []
 title: 'aktuelle Projekte | Michael Doepke'
+sourcePath: _posts/2016-01-08-aktuelle-projekte-or-michael-doepke.md
+published: true
 authors: []
 publisher:
   name: Midoe
   domain: www.midoe.de
   url: 'http://www.midoe.de'
   favicon: null
-sourcePath: _posts/2016-01-08-aktuelle-projekte-or-michael-doepke.md
-published: true
+url: aktuelle-projekte-or-michael-doepke/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
